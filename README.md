@@ -10,7 +10,7 @@ git status
 git add .
 
 ## 4. 提交
-git commit -m "solve two greedy problems"
+git commit -m "solve new problems"
 
 ## 5. 推送到 GitHub
 git push
